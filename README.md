@@ -23,6 +23,7 @@ Bu proje, araç kiralama hizmeti sağlayan bir web sitesi uygulamasıdır. Kulla
   ## Ekran Görüntüsü
 
   
+![carrental](https://github.com/user-attachments/assets/75f08fe9-9057-4c99-b982-7afad7eb1ad6)
 
-https://github.com/user-attachments/assets/5bd03492-bc2a-49aa-8272-da40596beba2
+
 
